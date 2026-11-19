@@ -32,6 +32,7 @@ Fuentes de info/
 WhatsApp Image*
 *.docx
 *.pdf
+!public/docs/*.pdf
 biblia_extracted.txt
 biblia_full.txt
 sitemap_suggestion.txt
