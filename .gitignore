@@ -1,0 +1,37 @@
+# Dependencies & build
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Editor & OS files
+.vscode/*
+!.vscode/extensions.json
+.idea/
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Source / Raw design files & scratch
+scratch/
+.agents/
+pdf_pages/
+Fuentes de info/
+WhatsApp Image*
+*.docx
+*.pdf
+biblia_extracted.txt
+biblia_full.txt
+sitemap_suggestion.txt
